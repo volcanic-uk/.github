@@ -1,7 +1,7 @@
 <p align="center">
   <a href="https://volcanic.com/">
     <picture>
-      <img src="https://raw.githubusercontent.com/volcanic-uk/.github/master/profile/assets/volcanic-logo.svg" width="180" alt="Volcanic logo" />
+      <img src="/profile/assets/volcanic-logo.svg" width="400" alt="Volcanic logo" />
     </picture>    
   </a>
   <h2 align="center">The recruitment website design platform </h2>
